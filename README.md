@@ -1,6 +1,5 @@
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<br>
 ### 👨‍💻 Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/jasperan)](https://github.com/jasperan) 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/jasperan)](https://github.com/jasperan) 
