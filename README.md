@@ -34,6 +34,7 @@
 ### ☕ Get In Touch
 - [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
 - [Personal Site](http://jasperan.ninja)
+- [LinkedIn](https://www.linkedin.com/in/ignacio-g-martinez/)
 
 
 ⭐️ From [jasperan](https://github.com/jasperan)
