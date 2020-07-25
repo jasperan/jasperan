@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/jasperan)](https://github.com/jasperan) 
