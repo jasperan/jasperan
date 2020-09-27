@@ -33,7 +33,7 @@
 
 ### ☕ Get In Touch
 - [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
-- [Personal Site](http://jasperan.ninja)
+- [Personal Site](https://jasperan.life)
 - [LinkedIn](https://www.linkedin.com/in/ignacio-g-martinez/)
 
 
