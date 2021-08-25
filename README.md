@@ -1,3 +1,9 @@
+### ☕ Get In Touch
+- [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
+- [Personal Site](https://jasperan.com)
+- [LinkedIn](https://www.linkedin.com/in/ignacio-g-martinez/)
+
+
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
@@ -28,13 +34,6 @@
 
 ### 🏆 Github Status
 ![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=true)
-
-
-
-### ☕ Get In Touch
-- [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
-- [Personal Site](https://jasperan.life)
-- [LinkedIn](https://www.linkedin.com/in/ignacio-g-martinez/)
 
 
 ⭐️ From [jasperan](https://github.com/jasperan)
