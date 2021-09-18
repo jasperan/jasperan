@@ -8,7 +8,12 @@
 
 ### Where I appear in the News
 
-[Oracle x RedBull AI conference](https://github.com/oracle-devrel/redbull-analytics-hol) as Lead Presenter together with [GreatGhostsss](https://github.com/GreatGhostsss)
+
+#### Oracle x RedBull AI conference
+- [Github Repo](https://github.com/oracle-devrel/redbull-analytics-hol)
+- [Medium Article](https://medium.com/oracledevs/team-up-with-red-bull-racing-honda-and-oracle-for-hands-on-lab-teaching-machine-learning-with-70eafcf78383)
+
+Presented together with [GreatGhostsss](https://github.com/GreatGhostsss)
 
 ### Current public repositories I am working on
 
