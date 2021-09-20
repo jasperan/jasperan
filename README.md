@@ -18,6 +18,7 @@ Presented together with [GreatGhostsss](https://github.com/GreatGhostsss)
 ### Current public repositories I am working on
 
 [League of Legends Optimizer](https://github.com/oracle-devrel/leagueoflegends-optimizer)
+[WhatsApp OSINT Tool](https://github.com/jasperan/whatsapp-osint)
 
 
 ### 👨‍💻 Languages and Tools
