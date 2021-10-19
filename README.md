@@ -1,3 +1,6 @@
+### 🏆 Github Status
+![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=true&theme=synthwave&count_private=true&hide=prs)
+
 ### ☕ Get In Touch
 - [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
 - [Personal Site](https://jasperan.com)
@@ -45,10 +48,6 @@ Presented together with [GreatGhostsss](https://github.com/GreatGhostsss)
 
 ### 👀 Fun/Random Repository
 [![GitHub Utils](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=github-utils)](https://github.com/jasperan/github-utils)
-
-
-### 🏆 Github Status
-![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=true)
 
 
 ⭐️ From [jasperan](https://github.com/jasperan)
