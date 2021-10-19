@@ -1,5 +1,5 @@
 ### 🏆 Github Status
-![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=false&theme=radical&count_private=true&hide=prs,stars,contribs)
+![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide=prs,stars,contribs)
 
 ### ☕ Get In Touch
 - [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
