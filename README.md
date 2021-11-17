@@ -1,6 +1,8 @@
 ### 🏆 Github Status
 ![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide=prs,stars,contribs)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasperan&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperan&layout=compact)
 
 
