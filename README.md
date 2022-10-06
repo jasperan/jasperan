@@ -5,7 +5,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperan&layout=compact)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jasperan&theme=onedark)](https://github.com/jasperan)
 
 ### ☕ Get In Touch
 - [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
