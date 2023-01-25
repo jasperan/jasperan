@@ -1,6 +1,6 @@
 # Introduction
 
-Hey.
+Hey. <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
 
 <img src='https://user-images.githubusercontent.com/20752424/214715922-edb3ba30-f89e-4ab9-992c-afcdb44c3e86.jpg' width='500"'>
 
@@ -35,8 +35,6 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 
 [![F1'21 Telemetry](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=f1-telemetry-oracle)](https://github.com/jasperan/f1-telemetry-oracle)
 
-
-<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### My Gaming ML Content
 
