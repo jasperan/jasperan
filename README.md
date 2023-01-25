@@ -17,6 +17,17 @@ Hey, if you're interested in my content, check out the following links. I'm a Da
 - [LinkedIn](https://www.linkedin.com/in/ignacio-g-martinez/)
 
 
+## 👀 My Best Repositories
+
+[![GitHub Utils](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=github-utils)](https://github.com/jasperan/github-utils)
+[![WhatsApp Spy](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=whatsapp-osint)](https://github.com/jasperan/whatsapp-osint)
+[![League of Legends Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=leagueoflegends-optimizer)](https://github.com/oracle-devrel/leagueoflegends-optimizer)
+[![RedBull Analytics Hands-On Lab](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=redbull-analytics-hol)](https://github.com/oracle-devrel/redbull-analytics-hol)
+[![GitHub Utils](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=github-utils)](https://github.com/jasperan/github-utils)
+[![GitHub Utils](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=github-utils)](https://github.com/jasperan/github-utils)
+
+
+https://github.com/oracle-devrel/leagueoflegends-optimizer
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### My Gaming ML Content
@@ -67,12 +78,6 @@ https://oracle-devrel.github.io/leagueoflegends-optimizer/hols/workshops/nn/inde
 ## YouTube Videos
 
 [AlmaLinux Pi Day 2021](https://youtu.be/kGfwYqXxBfY)
-
-
-
-
-### 👀 Fun/Random Repository
-[![GitHub Utils](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=github-utils)](https://github.com/jasperan/github-utils)
 
 
 ⭐️ From [jasperan](https://github.com/jasperan)
