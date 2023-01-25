@@ -25,7 +25,6 @@ Hey, if you're interested in my content, check out the following links. I'm a Da
 [![F1'21 Telemetry](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=f1-telemetry-oracle)](https://github.com/jasperan/f1-telemetry-oracle)
 
 
-https://github.com/oracle-devrel/leagueoflegends-optimizer
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### My Gaming ML Content
