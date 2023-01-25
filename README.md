@@ -20,8 +20,11 @@ Hey, if you're interested in my content, check out the following links. I'm a Da
 ## 👀 My Best Repositories
 
 [![WhatsApp Spy](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=whatsapp-osint)](https://github.com/jasperan/whatsapp-osint)
+
 [![League of Legends Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=leagueoflegends-optimizer)](https://github.com/oracle-devrel/leagueoflegends-optimizer)
+
 [![RedBull Analytics Hands-On Lab](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=redbull-analytics-hol)](https://github.com/oracle-devrel/redbull-analytics-hol)
+
 [![F1'21 Telemetry](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=f1-telemetry-oracle)](https://github.com/jasperan/f1-telemetry-oracle)
 
 
