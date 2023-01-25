@@ -1,6 +1,7 @@
 # Introduction
 
-![Me in LA](https://user-images.githubusercontent.com/20752424/214715922-edb3ba30-f89e-4ab9-992c-afcdb44c3e86.jpg)
+<img src='https://user-images.githubusercontent.com/20752424/214715922-edb3ba30-f89e-4ab9-992c-afcdb44c3e86.jpg' width='500"'>
+
 
 
 Hey, if you're interested in my content, check out the following links. I'm a Data Scientist Advocate with 4 years of experience, and I love teaching people about Machine Learning (ML).
