@@ -1,9 +1,8 @@
 # Introduction
 
-Hey. <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='1"'>
+Hey.
 
 <img src='https://user-images.githubusercontent.com/20752424/214715922-edb3ba30-f89e-4ab9-992c-afcdb44c3e86.jpg' width='500"'>
-
 
 
 Hey, if you're interested in my content, check out the following links. I'm a Data Scientist Advocate with 4 years of experience, and I love teaching people about Machine Learning (ML).
@@ -98,3 +97,5 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 
 
 ⭐️ From [jasperan](https://github.com/jasperan)
+
+ <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='1"'>
