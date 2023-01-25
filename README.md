@@ -36,24 +36,13 @@ Hey, if you're interested in my content, check out the following links. I'm a Da
 - [League of Legends Machine Learning with OCI - Model Building with scikit-learn and AutoGluon](https://oracle-devrel.github.io/leagueoflegends-optimizer/hols/workshops/mlwithoci/index.html) - Illustrates the whole AI process once we have data available
 - [League of Legends Machine Learning with OCI - Introduction to Neural Networks](https://oracle-devrel.github.io/leagueoflegends-optimizer/hols/workshops/nn/index.html) - A very basic introduction to all Neural Network concepts, like learning rate, backpropagation... etc.
 
-### Data Extraction
+#### Topic-specific Articles
 
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Data Extraction & Processing](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article1.md)
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Data Extraction & Processing 2](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article2.md)
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Building an Adversarial League of Legends AI Model](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article3.md)
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Real-Time predictions](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article4.md)
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Real-Time predictions 2](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article5.md)
-
-
-#### Model Building
-
-#### Model Inference (How to make predictions?)https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article1.md - About Data Extraction 
-https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article2.md - About Data Processing
-https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article3.md - Building a starter ML model
-https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article4.md - Inference
-https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article5.md - Inference (pt. 2)
-
-League of Legends Optimizer using Oracle Cloud Infrastructure: Real-Time predictions
 
 
 ### My RedBull Content
