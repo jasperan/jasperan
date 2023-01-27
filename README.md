@@ -94,6 +94,7 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 - [AlmaLinux Pi Day 2021](https://youtu.be/kGfwYqXxBfY)
 - [Machine Learning on OCI for League of Legends- Data Extraction](https://youtu.be/ad0RkqB07vI)
 - [Machine Learning on OCI for League of Legends - Model Building with scikit-learn and AutoGluon](https://youtu.be/5iIvkgcMvhM)
+- [Machine Learning on OCI for League of Legends: Introduction to Neural Networks](https://youtu.be/Uuo3ZSexNU8)
 
 
 ⭐️ From [jasperan](https://github.com/jasperan)
