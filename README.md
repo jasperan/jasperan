@@ -5,7 +5,7 @@ Hey.
 <img src='https://user-images.githubusercontent.com/20752424/214715922-edb3ba30-f89e-4ab9-992c-afcdb44c3e86.jpg' width='500"'>
 
 
-If you're interested in my content, check out the following links. I'm a Data Scientist Advocate with 4 years of experience, and I love teaching people about Machine Learning (ML) in unique ways that make people remember better.
+If you're interested in my content, check out the following links. I'm a Data Scientist Advocate with 4 years of experience, and I love teaching people about Machine Learning (ML) in unique ways that make people learn better.
 
 Follow me if you're interested in ML content. I promise, everything I do goes opensource.
 
