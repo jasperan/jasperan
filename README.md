@@ -62,6 +62,8 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 
 - [Creating a Mask Model on OCI with YOLOv5: Training and Real-Time Inference](https://medium.com/oracledevs/creating-a-mask-model-on-oci-with-yolov5-training-and-real-time-inference-3534c7f9eb21)
 
+- [YOLOv5 and OCI: Implementing Custom PyTorch Code From Scratch](https://medium.com/oracledevs/yolov5-and-oci-implementing-custom-pytorch-code-from-scratch-7c6b82b0b6b1)
+
 ### My General ML Content
 
 - [Benchmarking TensorFlow on OCI](https://medium.com/oracledevs/benchmarking-tensorflow-on-oci-70c781287b7d)
