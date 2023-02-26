@@ -82,7 +82,7 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 ### My Public Appearances
 
 ![Oracle CloudWorld 2022](https://user-images.githubusercontent.com/20752424/214705966-dd90d511-713b-4322-b620-bd2946857f02.jpg)
-Me @ Oracle CloudWorld 2022, Las Vegas
+    > Me @ Oracle CloudWorld 2022, Las Vegas
 
 
 ### Current public repositories I am working on
