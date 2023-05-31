@@ -4,12 +4,12 @@ Hey.
 
 <img src='https://user-images.githubusercontent.com/20752424/214715922-edb3ba30-f89e-4ab9-992c-afcdb44c3e86.jpg' width='500"'>
 
-
 If you're interested in my content, check out the following links. I'm a Data Scientist Advocate with 4 years of experience, and I love teaching people about Machine Learning (ML) in unique ways that make people learn better.
 
 Follow me if you're interested in ML content. I promise, everything I do goes opensource.
 
 ## 🏆 My Stats
+
 ![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide=prs,stars,contribs)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasperan&theme=tokyonight)
@@ -19,10 +19,10 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jasperan&theme=onedark)](https://github.com/jasperan)
 
 ## ☕ Get In Touch
+
 - [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
 - [My Website](https://jasperan.com)
-- [LinkedIn](https://www.linkedin.com/in/ignacio-g-martinez/)
-
+- [LinkedIn](https://www.linkedin.com/in/jasperan/)
 
 ## 👀 My Best Repositories
 
@@ -33,7 +33,6 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 [![RedBull Analytics Hands-On Lab](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=redbull-analytics-hol)](https://github.com/oracle-devrel/redbull-analytics-hol)
 
 [![F1'21 Telemetry](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=f1-telemetry-oracle)](https://github.com/jasperan/f1-telemetry-oracle)
-
 
 ### My Gaming ML Content
 
@@ -48,7 +47,6 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Building an Adversarial League of Legends AI Model](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article3.md)
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Real-Time predictions](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article4.md)
 - [League of Legends Optimizer using Oracle Cloud Infrastructure: Real-Time predictions 2](https://github.com/oracle-devrel/leagueoflegends-optimizer/blob/main/articles/article5.md)
-
 
 ### My RedBull Content
 
@@ -72,9 +70,6 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 - [Working with Data in PyTorch](https://medium.com/oracledevs/working-with-data-in-pytorch-fa2641e37d17)
 - [Getting Started with PyTorch on OCI](https://medium.com/oracledevs/getting-started-with-pytorch-on-oci-dbaa5e7a40ef)
 
-
-
-
 ### Articles in which I'm Featured
 
 - [Team up with Red Bull Racing Honda and Oracle for Hands-on Lab teaching machine learning with racing data](https://medium.com/oracledevs/team-up-with-red-bull-racing-honda-and-oracle-for-hands-on-lab-teaching-machine-learning-with-70eafcf78383)
@@ -83,7 +78,6 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 
 ![Oracle CloudWorld 2022](https://user-images.githubusercontent.com/20752424/214705966-dd90d511-713b-4322-b620-bd2946857f02.jpg)
     > Me @ Oracle CloudWorld 2022, Las Vegas
-
 
 ### Current public repositories I am working on
 
@@ -98,7 +92,4 @@ Follow me if you're interested in ML content. I promise, everything I do goes op
 - [Machine Learning on OCI for League of Legends - Model Building with scikit-learn and AutoGluon](https://youtu.be/5iIvkgcMvhM)
 - [Machine Learning on OCI for League of Legends: Introduction to Neural Networks](https://youtu.be/Uuo3ZSexNU8)
 
-
 ⭐️ From [jasperan](https://github.com/jasperan)
-
- <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='1"'>
