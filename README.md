@@ -4,6 +4,9 @@ Welcome to my humble GitHub Page 👀
 
 ![forgh2](https://github.com/jasperan/jasperan/assets/20752424/62d5a6bf-78f1-4357-b329-87b5246f0ce3)
 
+![forgh3](https://github.com/jasperan/jasperan/assets/20752424/32a64be8-5649-479e-b120-7a0ac4138f90)
+
+
 I'm a Data Scientist with a specialization on emerging AI technologies. If you're interested in my content, check out the following links. I'm a Data Scientist Advocate with 4 years of experience, and I love teaching people about Machine Learning (ML) in unique ways that make people learn better.
 
 I also develop Open-Source Intelligence (CyberSec) tools sometimes in my free time, check out my best repositories below ⬇️
