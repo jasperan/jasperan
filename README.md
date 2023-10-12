@@ -94,6 +94,6 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 - [Machine Learning on OCI for League of Legends- Data Extraction](https://youtu.be/ad0RkqB07vI)
 - [Machine Learning on OCI for League of Legends - Model Building with scikit-learn and AutoGluon](https://youtu.be/5iIvkgcMvhM)
 - [Machine Learning on OCI for League of Legends: Introduction to Neural Networks](https://youtu.be/Uuo3ZSexNU8)
-- [Learn about Training Large Language Models in Oracle Cloud Infrastructure](https://www.youtube.com/watch?v=Zj4GGbrEekQ)
+- [Learn about Training Large Language Models in Oracle Cloud Infrastructure](https://youtu.be/Zj4GGbrEekQ)
 
 ⭐️ From [jasperan](https://github.com/jasperan)
