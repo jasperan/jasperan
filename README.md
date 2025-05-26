@@ -87,6 +87,13 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 ![Oracle CloudWorld 2022](https://user-images.githubusercontent.com/20752424/214705966-dd90d511-713b-4322-b620-bd2946857f02.jpg)
     > Me @ Oracle CloudWorld 2022, Las Vegas
 
+- Oracle CloudWorld, Las Vegas, Nevada, 2022, 2023, 2024
+- DevLive Tour London, March 2024
+- Kubecon Paris, March 2024
+- Kubecon Salt Lake City, Utah, November 2024
+- Oracle CloudWorld Tour Madrid, March 2025
+- DevLive Tour Berlin, May 2025
+
 ### Current public repositories I am working on
 
 - [League of Legends Optimizer](https://github.com/oracle-devrel/leagueoflegends-optimizer)
