@@ -93,11 +93,13 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 - Kubecon Salt Lake City, Utah, November 2024
 - Oracle CloudWorld Tour Madrid, March 2025
 - DevLive Tour Berlin, May 2025
+- Kubecon Atlanta, Georgia, November 2025 (Agent2Agent Protocol Integration in a Multi-Agent RAG System​)
 
 ### Current public repositories I am working on
 
 - [League of Legends Optimizer](https://github.com/oracle-devrel/leagueoflegends-optimizer)
 - [WhatsApp OSINT Tool](https://github.com/jasperan/whatsapp-osint)
+- [DevRel Labs](https://github.com/oracle-devrel/devrel-labs): a collection of all the Oracle related projects I have done in the devrel space in Oracle
 
 ## YouTube Videos
 
