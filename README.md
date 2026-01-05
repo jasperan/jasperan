@@ -1,3 +1,6 @@
+![Overview](./generated/overview.svg)
+![Languages](./generated/languages.svg)
+
 # Introduction
 
 Welcome to my humble GitHub Page 👀
