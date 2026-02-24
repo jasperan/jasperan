@@ -7,7 +7,7 @@ Welcome to my humble GitHub Page 👀
 
 ![forgh3](https://github.com/jasperan/jasperan/assets/20752424/32a64be8-5649-479e-b120-7a0ac4138f90)
 
-I'm a Data Scientist with a specialization on emerging AI technologies. If you're interested in my content, check out the following links. I'm a Data Scientist Advocate with 6 years of experience, and I love teaching people about Machine Learning (ML) in unique ways that make people learn better.
+I'm an AI Engineer with a specialization on emerging AI technologies. If you're interested in my content, check out the following links. 7 years of experience. I love teaching people about agents, vibecoding, opensource, inferencing, agentic AI, and ML in unique ways that make people learn better.
 
 I also develop Open-Source Intelligence (CyberSec) tools sometimes in my free time, check out my best repositories below ⬇️
 
@@ -15,13 +15,7 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 
 ## 🏆 My Stats
 
-![My Public contributions](https://github-readme-stats.vercel.app/api?username=jasperan&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide=prs,stars,contribs)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasperan&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperan&layout=compact)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jasperan&theme=onedark)](https://github.com/jasperan)
 
 ## ☕ Get In Touch
 
