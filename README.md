@@ -23,18 +23,18 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jasperan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jasperan/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-jasper-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9151930/jasper?tab=profile)
 
-## 🚀 Current Public Repositories I Am Working On
+## ⭐ My Popular Repositories
 
 [![whatsapp-osint](https://img.shields.io/github/stars/jasperan/whatsapp-osint?style=flat-square&logo=github&label=whatsapp-osint)](https://github.com/jasperan/whatsapp-osint)
-
 [![leagueoflegends-optimizer](https://img.shields.io/github/stars/oracle-devrel/leagueoflegends-optimizer?style=flat-square&logo=github&label=leagueoflegends-optimizer)](https://github.com/oracle-devrel/leagueoflegends-optimizer)
-
 [![oracle-ai-developer-hub](https://img.shields.io/github/stars/oracle-devrel/oracle-ai-developer-hub?style=flat-square&logo=github&label=oracle-ai-developer-hub)](https://github.com/oracle-devrel/oracle-ai-developer-hub)
+[![picooraclaw](https://img.shields.io/github/stars/jasperan/picooraclaw?style=flat-square&logo=github&label=picooraclaw)](https://github.com/jasperan/picooraclaw)
 
-## 👀 My Best Repositories
+## 🚀 What I'm Working On
 
 [![whatsapp-osint](https://img.shields.io/badge/whatsapp--osint-WhatsApp%20OSINT%20Toolkit-0969da?style=flat-square&logo=github)](https://github.com/jasperan/whatsapp-osint)
 [![leagueoflegends-optimizer](https://img.shields.io/badge/leagueoflegends--optimizer-Gaming%20ML%20Platform-0969da?style=flat-square&logo=github)](https://github.com/oracle-devrel/leagueoflegends-optimizer)
+[![oracle-ai-developer-hub](https://img.shields.io/badge/oracle--ai--developer--hub-AI%20Developer%20Hub-0969da?style=flat-square&logo=github)](https://github.com/oracle-devrel/oracle-ai-developer-hub)
 [![picooraclaw](https://img.shields.io/badge/picooraclaw-Oracle%20AI%20Agent-0969da?style=flat-square&logo=github)](https://github.com/jasperan/picooraclaw)
 [![ragcli](https://img.shields.io/badge/ragcli-Oracle%20RAG%20CLI-0969da?style=flat-square&logo=github)](https://github.com/jasperan/ragcli)
 [![agent-reasoning](https://img.shields.io/badge/agent--reasoning-LLM%20Reasoning%20Engine-0969da?style=flat-square&logo=github)](https://github.com/jasperan/agent-reasoning)
@@ -47,11 +47,8 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 ### Notable Repos (Pre-2026)
 
 [![planeLLM](https://img.shields.io/badge/planeLLM-AI_Podcast_Generator-6c757d?style=flat-square&logo=github)](https://github.com/jasperan/planeLLM)
-
 [![devrel-labs](https://img.shields.io/badge/devrel--labs-Oracle_DevRel_Projects-6c757d?style=flat-square&logo=github)](https://github.com/oracle-devrel/devrel-labs)
-
 [![redbull-analytics-hol](https://img.shields.io/badge/redbull--analytics--hol-RedBull_ML_Workshop-6c757d?style=flat-square&logo=github)](https://github.com/oracle-devrel/redbull-analytics-hol)
-
 [![f1-telemetry-oracle](https://img.shields.io/badge/f1--telemetry--oracle-F1_Telemetry-6c757d?style=flat-square&logo=github)](https://github.com/jasperan/f1-telemetry-oracle)
 
 ### My Gaming ML Content (3 self-paced workshops)
