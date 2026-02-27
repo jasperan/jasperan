@@ -19,24 +19,40 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 
 ## ☕ Get In Touch
 
-- [LinkedIn](https://www.linkedin.com/in/jasperan/)
-- [StackOverflow](https://stackoverflow.com/users/9151930/jasper?tab=profile)
+[![GitHub](https://img.shields.io/badge/GitHub-jasperan-181717?style=flat-square&logo=github)](https://github.com/jasperan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jasperan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jasperan/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-jasper-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9151930/jasper?tab=profile)
+
+## 🚀 Current Public Repositories I Am Working On
+
+[![whatsapp-osint](https://img.shields.io/github/stars/jasperan/whatsapp-osint?style=flat-square&logo=github&label=whatsapp-osint)](https://github.com/jasperan/whatsapp-osint)
+
+[![leagueoflegends-optimizer](https://img.shields.io/github/stars/oracle-devrel/leagueoflegends-optimizer?style=flat-square&logo=github&label=leagueoflegends-optimizer)](https://github.com/oracle-devrel/leagueoflegends-optimizer)
+
+[![oracle-ai-developer-hub](https://img.shields.io/github/stars/oracle-devrel/oracle-ai-developer-hub?style=flat-square&logo=github&label=oracle-ai-developer-hub)](https://github.com/oracle-devrel/oracle-ai-developer-hub)
 
 ## 👀 My Best Repositories
 
-[![WhatsApp Spy](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=whatsapp-osint)](https://github.com/jasperan/whatsapp-osint)
+[![whatsapp-osint](https://img.shields.io/badge/whatsapp--osint-WhatsApp%20OSINT%20Toolkit-0969da?style=flat-square&logo=github)](https://github.com/jasperan/whatsapp-osint)
+[![leagueoflegends-optimizer](https://img.shields.io/badge/leagueoflegends--optimizer-Gaming%20ML%20Platform-0969da?style=flat-square&logo=github)](https://github.com/oracle-devrel/leagueoflegends-optimizer)
+[![picooraclaw](https://img.shields.io/badge/picooraclaw-Oracle%20AI%20Agent-0969da?style=flat-square&logo=github)](https://github.com/jasperan/picooraclaw)
+[![ragcli](https://img.shields.io/badge/ragcli-Oracle%20RAG%20CLI-0969da?style=flat-square&logo=github)](https://github.com/jasperan/ragcli)
+[![agent-reasoning](https://img.shields.io/badge/agent--reasoning-LLM%20Reasoning%20Engine-0969da?style=flat-square&logo=github)](https://github.com/jasperan/agent-reasoning)
+[![draw-realtime](https://img.shields.io/badge/draw--realtime-Real--Time%20AI%20Art-0969da?style=flat-square&logo=github)](https://github.com/jasperan/draw-realtime)
+[![zerooraclaw](https://img.shields.io/badge/zerooraclaw-Autonomous%20AI%20Infra-0969da?style=flat-square&logo=github)](https://github.com/jasperan/zerooraclaw)
+[![OraclePageIndex](https://img.shields.io/badge/OraclePageIndex-Document%20Intelligence-0969da?style=flat-square&logo=github)](https://github.com/jasperan/OraclePageIndex)
+[![continual-learning](https://img.shields.io/badge/continual--learning-Continual%20Learning-0969da?style=flat-square&logo=github)](https://github.com/jasperan/continual-learning)
+[![tokenwatch](https://img.shields.io/badge/tokenwatch-LLM%20Usage%20Monitor-0969da?style=flat-square&logo=github)](https://github.com/jasperan/tokenwatch)
 
-[![League of Legends Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=leagueoflegends-optimizer)](https://github.com/oracle-devrel/leagueoflegends-optimizer)
+### Notable Repos (Pre-2026)
 
-[![RedBull Analytics Hands-On Lab](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=redbull-analytics-hol)](https://github.com/oracle-devrel/redbull-analytics-hol)
+[![planeLLM](https://img.shields.io/badge/planeLLM-AI_Podcast_Generator-6c757d?style=flat-square&logo=github)](https://github.com/jasperan/planeLLM)
 
-[![F1'21 Telemetry](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=f1-telemetry-oracle)](https://github.com/jasperan/f1-telemetry-oracle)
+[![devrel-labs](https://img.shields.io/badge/devrel--labs-Oracle_DevRel_Projects-6c757d?style=flat-square&logo=github)](https://github.com/oracle-devrel/devrel-labs)
 
-[![Improve insights to make smarter decisions by tapping into real-time data with retrieval-augmented generation (RAG)](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=oci-rag-vectordb)](https://github.com/oracle-devrel/oci-rag-vectordb)
+[![redbull-analytics-hol](https://img.shields.io/badge/redbull--analytics--hol-RedBull_ML_Workshop-6c757d?style=flat-square&logo=github)](https://github.com/oracle-devrel/redbull-analytics-hol)
 
-[![A collection of my latest Generative AI and advanced AI projects](https://github-readme-stats.vercel.app/api/pin/?username=oracle-devrel&repo=devrel-labs)](https://github.com/oracle-devrel/devrel-labs)
-
-[![planeLLM: Create Bite-sized podcasts to learn about anything powered by the OCI GenAI Service](https://github-readme-stats.vercel.app/api/pin/?username=jasperan&repo=planeLLM)](https://github.com/jasperan/planeLLM/)
+[![f1-telemetry-oracle](https://img.shields.io/badge/f1--telemetry--oracle-F1_Telemetry-6c757d?style=flat-square&logo=github)](https://github.com/jasperan/f1-telemetry-oracle)
 
 ### My Gaming ML Content (3 self-paced workshops)
 
@@ -75,9 +91,16 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 - [Working with Data in PyTorch](https://medium.com/oracledevs/working-with-data-in-pytorch-fa2641e37d17)
 - [Getting Started with PyTorch on OCI](https://medium.com/oracledevs/getting-started-with-pytorch-on-oci-dbaa5e7a40ef)
 
+### My AI & Agents Content
+
+- [The Great AI Context Debate: Why "Filesystem vs Database" Is the Wrong Question](https://medium.com/oracledevs/the-great-ai-context-debate-why-filesystem-vs-database-is-the-wrong-question-3454e27c27f6)
+- [Build a Scalable Multi Agent RAG system with A2A Protocol and LangChain](https://medium.com/oracledevs/build-a-scalable-multi-agent-rag-system-with-a2a-protocol-and-langchain-0ac0255976f1)
+
 ### Articles in which I'm Featured
 
 - [Team up with Red Bull Racing Honda and Oracle for Hands-on Lab teaching machine learning with racing data](https://medium.com/oracledevs/team-up-with-red-bull-racing-honda-and-oracle-for-hands-on-lab-teaching-machine-learning-with-70eafcf78383)
+- [The Great AI Context Debate: Why "Filesystem vs Database" Is the Wrong Question](https://medium.com/oracledevs/the-great-ai-context-debate-why-filesystem-vs-database-is-the-wrong-question-3454e27c27f6)
+- [Build a Scalable Multi Agent RAG system with A2A Protocol and LangChain](https://medium.com/oracledevs/build-a-scalable-multi-agent-rag-system-with-a2a-protocol-and-langchain-0ac0255976f1)
 
 ### My Public Appearances
 
@@ -91,15 +114,12 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 - Oracle CloudWorld Tour Madrid, March 2025
 - DevLive Tour Berlin, May 2025
 - Kubecon Atlanta, Georgia, November 2025 (Agent2Agent Protocol Integration in a Multi-Agent RAG System​)
-
-### Current public repositories I am working on
-
-- [League of Legends Optimizer](https://github.com/oracle-devrel/leagueoflegends-optimizer)
-- [WhatsApp OSINT Tool](https://github.com/jasperan/whatsapp-osint)
-- [DevRel Labs](https://github.com/oracle-devrel/devrel-labs): a collection of all the Oracle related projects I have done in the devrel space in Oracle
+- AICamp San Francisco, California, February 2026 - Memory Engineering
+- DevWeek San Jose, California, February 2026 - [Building the Brain and Backbone of Enterprise Agents](https://github.com/oracle-devrel/oracle-ai-developer-hub/blob/main/guides/brain_backbone_enterprise_agents_devweek_sf_2026.pdf)
 
 ## YouTube Videos
 
+- [NetworkChuck - You NEED to learn Machine Learning, RIGHT NOW!!](https://www.youtube.com/watch?v=JJCq21Dc-Us)
 - [League of Legends Content Series Interview: Using ML with League of Legends (LoL)](https://youtu.be/zz3xaLI0uq8)
 - [AlmaLinux Pi Day 2021](https://youtu.be/kGfwYqXxBfY)
 - [Machine Learning on OCI for League of Legends- Data Extraction](https://youtu.be/ad0RkqB07vI)
