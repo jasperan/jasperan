@@ -5,7 +5,7 @@
 
 Welcome to my GitHub Page 👀
 
-[![jasperan-portfolio](https://github.com/jasperan/jasperan/assets/20752424/32a64be8-5649-479e-b120-7a0ac4138f90)](https://jasperan.github.io/jasperan-portfolio/)
+[![jasperan-portfolio](./portfolio-screenshot.png)](https://jasperan.github.io/jasperan-portfolio/)
 
 > 🌐 **[Click to visit my portfolio →](https://jasperan.github.io/jasperan-portfolio/)**
 
