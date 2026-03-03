@@ -7,6 +7,8 @@ Welcome to my humble GitHub Page 👀
 
 ![forgh3](https://github.com/jasperan/jasperan/assets/20752424/32a64be8-5649-479e-b120-7a0ac4138f90)
 
+> 🌐 **[Check out my portfolio → jasperan.github.io/jasperan-portfolio](https://jasperan.github.io/jasperan-portfolio/)**
+
 I'm an AI Engineer with a specialization on emerging AI technologies. If you're interested in my content, check out the following links. 7 years of experience. I love teaching people about agents, vibecoding, opensource, inferencing, agentic AI, and ML in unique ways that make people learn better.
 
 I also develop Open-Source Intelligence (CyberSec) tools sometimes in my free time, check out my best repositories below ⬇️
