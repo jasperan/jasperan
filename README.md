@@ -118,6 +118,10 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 
 ## YouTube Videos
 
+- [AI Webinar with Oracle (Ep 8) – MongoDB to Oracle – Switch and Use AI on your data and App](https://www.youtube.com/watch?v=9fWMl70HYPQ) *(AICamp, Sep 2025)*
+- [Cloud Coaching – Java meets Generative AI](https://www.youtube.com/watch?v=cn09bvgxcIY) *(Oracle Developers, Jun 2024)*
+- [Ep5 T3 – con Nacho Martínez sobre IA con Oracle](https://www.youtube.com/watch?v=cypL1LBQBUU) *(T3 Spanish Podcast, Mar 2024)*
+- [Exploring the Power of AI with Nacho Martinez from Oracle Corporation](https://www.youtube.com/watch?v=lIceAEjkzUs) *(Tech With Nanor, Mar 2023)*
 - [NetworkChuck - You NEED to learn Machine Learning, RIGHT NOW!!](https://www.youtube.com/watch?v=JJCq21Dc-Us)
 - [League of Legends Content Series Interview: Using ML with League of Legends (LoL)](https://youtu.be/zz3xaLI0uq8)
 - [AlmaLinux Pi Day 2021](https://youtu.be/kGfwYqXxBfY)
