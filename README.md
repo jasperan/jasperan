@@ -15,30 +15,6 @@ I also develop Open-Source Intelligence (CyberSec) tools sometimes in my free ti
 
 Follow me if you like Artificial Intelligence, Gaming and cool projects. I promise, everything I do goes opensource.
 
-## Installation
-
-<!-- one-command-install -->
-> **One-command install** — clone, configure, and run in a single step:
->
-> ```bash
-> curl -fsSL https://raw.githubusercontent.com/jasperan/jasperan/master/install.sh | bash
-> ```
->
-> <details><summary>Advanced options</summary>
->
-> Override install location:
-> ```bash
-> PROJECT_DIR=/opt/myapp curl -fsSL https://raw.githubusercontent.com/jasperan/jasperan/master/install.sh | bash
-> ```
->
-> Or install manually:
-> ```bash
-> git clone https://github.com/jasperan/jasperan.git
-> cd jasperan
-> # See below for setup instructions
-> ```
-> </details>
-
 
 ## 🏆 My Stats
 
