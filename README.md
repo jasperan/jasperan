@@ -7,7 +7,7 @@ Welcome to my GitHub Page 👀
 
 [![jasperan-portfolio](./portfolio-screenshot.png)](https://jasperan.github.io/jasperan-portfolio/)
 
-> 🌐 **[Click to visit my portfolio →](https://jasperan.github.io/jasperan-portfolio/)**
+> 🌐 **[Click to visit my portfolio →](https://jasperan.github.io)**
 
 I'm an AI Engineer with a specialization on emerging AI technologies. If you're interested in my content, check out the following links. 7 years of experience. I love teaching people about agents, vibecoding, opensource, inferencing, agentic AI, and ML in unique ways that make people learn better.
 
