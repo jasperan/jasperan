@@ -16,6 +16,10 @@ I also develop Open-Source Intelligence (CyberSec) tools sometimes in my free ti
 Follow me if you like Artificial Intelligence, Gaming and cool projects. I promise, everything I do goes opensource.
 
 
+## 🎓 Courses
+
+- [Agent Memory: Building Memory-Aware Agents](https://www.deeplearning.ai/short-courses/agent-memory-building-memory-aware-agents/) *(DeepLearning.AI x Oracle, 2026)* — Co-instructor with Richmond Alake. Build persistent memory systems for AI agents using Oracle AI Database, LangChain, and LLM-powered pipelines.
+
 ## 🏆 My Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasperan&theme=tokyonight)
