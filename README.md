@@ -1,6 +1,9 @@
 ![Overview](./generated/overview.svg)
 ![Languages](./generated/languages.svg)
 
+![deeplearning.ai x Oracle - Building Memory Aware Agents](https://github.com/user-attachments/assets/e102338e-be2a-4d79-bc57-fe17a5484fee)
+    > [Richmond Alake](https://github.com/richmondalake), Brendan Brown, [Andrew Ng](https://github.com/andrewyng) and I @ deeplearning.ai recording studio, San Francisco, 2026
+
 # Introduction
 
 Welcome to my GitHub Page 👀
@@ -110,7 +113,7 @@ Follow me if you like Artificial Intelligence, Gaming and cool projects. I promi
 
 ![Oracle CloudWorld 2022](https://user-images.githubusercontent.com/20752424/214705966-dd90d511-713b-4322-b620-bd2946857f02.jpg)
     > Me @ Oracle CloudWorld 2022, Las Vegas
-
+    
 - Oracle CloudWorld, Las Vegas, Nevada, 2022, 2023, 2024
 - DevLive Tour London, March 2024
 - Kubecon Paris, March 2024
