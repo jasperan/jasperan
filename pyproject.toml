@@ -1,0 +1,16 @@
+[project]
+name = "jasperan"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "requests",
+    "aiohttp",
+    "PyYAML",
+    "types-PyYAML",
+    "tqdm"
+]
+
+[dependency-groups]
+dev = []
+
+[tool.uv]
