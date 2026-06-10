@@ -1,6 +1,11 @@
 config.yaml
 CLAUDE.md
 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
 # Claude-generated plan documents
 docs/plans/
 task_plan.md

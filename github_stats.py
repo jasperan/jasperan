@@ -3,7 +3,6 @@
 import asyncio
 import os
 import time
-from datetime import datetime
 from typing import Dict, List, Optional, Set, Tuple
 
 import aiohttp
@@ -15,7 +14,7 @@ from tqdm import tqdm
 # Main Classes
 ###############################################################################
 
-class Queries(object):
+class Queries:
     """
     Class with functions to query the GitHub GraphQL (v4) API and the REST (v3)
     API. Also includes functions to dynamically generate GraphQL queries.
@@ -36,7 +35,7 @@ class Queries(object):
         reset = headers.get("X-RateLimit-Reset")
         
         if remaining is not None and int(remaining) < 2:
-            now = datetime.utcnow().timestamp()
+            now = time.time()
             reset_time = float(reset) if reset else now + 60
             sleep_time = max(0, reset_time - now) + 1
             print(f"\nRate limit hit! Sleeping for {sleep_time:.2f} seconds until {reset}")
@@ -75,47 +74,36 @@ class Queries(object):
         :return: deserialized REST JSON output
         """
 
-        max_retries = 20 # Increased retries 
-        current_retry = 0
-        for _ in range(max_retries):
-            headers = {
-                "Authorization": f"token {self.access_token}",
-            }
-            if params is None:
-                params = dict()
-            if path.startswith("/"):
-                path = path[1:]
+        max_retries = 20
+        headers = {
+            "Authorization": f"token {self.access_token}",
+        }
+        if params is None:
+            params = dict()
+        if path.startswith("/"):
+            path = path[1:]
+
+        for current_retry in range(1, max_retries + 1):
             try:
-                # Fall back on non-async requests to handle rate limits synchronously easier if needed
-                # or just inspect headers from response
                 async with self.semaphore:
                     r = await self.session.get(f"https://api.github.com/{path}",
                                                headers=headers,
                                                params=tuple(params.items()))
-                
+
                 self.check_rate_limit(r.headers)
-                
+
                 if r.status == 202:
-                    current_retry += 1
-                    # print(f"{path} returned 202. Retrying...")
                     print(f"\n{path} returned 202. Retrying ({current_retry}/{max_retries})...")
-                    await asyncio.sleep(min(30, 2 + current_retry * 1.5)) # Exponential backoff capped at 30s
+                    await asyncio.sleep(min(30, 2 + current_retry * 1.5))  # Exponential backoff capped at 30s
                     continue
 
                 result = await r.json()
                 if result is not None:
                     return result
-            except Exception as e:
-                # print("aiohttp failed for rest query")
-                # Fall back on non-async requests
-                async with self.semaphore:
-                    # Non-async fallback logic (simplified for brevity, main logic is above)
-                    pass
-                # For robust implementation, we primarily rely on the async loop above.
-                # If aiohttp fails repeatedly, we might break. 
-                # Preserving fallback structure but suppressing noise.
+            except Exception:
+                # Swallow transient aiohttp/JSON errors and retry on the next iteration.
                 pass
-                
+
         print(f"\nThere were too many 202s. Data for {path} will be incomplete.")
         return dict()
 
@@ -247,7 +235,7 @@ query {{
 """
 
 
-class Stats(object):
+class Stats:
     """
     Retrieve and store statistics about GitHub usage.
     """
@@ -341,14 +329,14 @@ Languages:
                 self._forks += repo.get("forkCount", 0)
 
                 for lang in repo.get("languages", {}).get("edges", []):
-                    name = lang.get("node", {}).get("name", "Other")
-                    languages = await self.languages
-                    if name in self._exclude_langs: continue
-                    if name in languages:
-                        languages[name]["size"] += lang.get("size", 0)
-                        languages[name]["occurrences"] += 1
+                    lang_name = lang.get("node", {}).get("name", "Other")
+                    if lang_name in self._exclude_langs:
+                        continue
+                    if lang_name in self._languages:
+                        self._languages[lang_name]["size"] += lang.get("size", 0)
+                        self._languages[lang_name]["occurrences"] += 1
                     else:
-                        languages[name] = {
+                        self._languages[lang_name] = {
                             "size": lang.get("size", 0),
                             "occurrences": 1,
                             "color": lang.get("node", {}).get("color")
@@ -379,7 +367,7 @@ Languages:
         if self._name is not None:
             return self._name
         await self.get_stats()
-        assert(self._name is not None)
+        assert self._name is not None
         return self._name
 
     @property
@@ -390,7 +378,7 @@ Languages:
         if self._stargazers is not None:
             return self._stargazers
         await self.get_stats()
-        assert(self._stargazers is not None)
+        assert self._stargazers is not None
         return self._stargazers
 
     @property
@@ -401,7 +389,7 @@ Languages:
         if self._forks is not None:
             return self._forks
         await self.get_stats()
-        assert(self._forks is not None)
+        assert self._forks is not None
         return self._forks
 
     @property
@@ -412,7 +400,7 @@ Languages:
         if self._languages is not None:
             return self._languages
         await self.get_stats()
-        assert(self._languages is not None)
+        assert self._languages is not None
         return self._languages
 
     @property
@@ -422,19 +410,19 @@ Languages:
         """
         if self._languages is None:
             await self.get_stats()
-            assert(self._languages is not None)
+            assert self._languages is not None
 
         return {k: v.get("prop", 0) for (k, v) in self._languages.items()}
 
     @property
-    async def repos(self) -> List[str]:
+    async def repos(self) -> Set[str]:
         """
-        :return: list of names of user's repos
+        :return: set of names of user's repos
         """
         if self._repos is not None:
             return self._repos
         await self.get_stats()
-        assert(self._repos is not None)
+        assert self._repos is not None
         return self._repos
 
     @property

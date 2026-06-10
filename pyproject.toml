@@ -6,11 +6,12 @@ dependencies = [
     "requests",
     "aiohttp",
     "PyYAML",
-    "types-PyYAML",
     "tqdm"
 ]
 
 [dependency-groups]
-dev = []
+dev = [
+    "types-PyYAML"
+]
 
 [tool.uv]

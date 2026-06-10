@@ -316,6 +316,10 @@ dependencies = [
     { name = "pyyaml" },
     { name = "requests" },
     { name = "tqdm" },
+]
+
+[package.dev-dependencies]
+dev = [
     { name = "types-pyyaml" },
 ]
 
@@ -325,11 +329,10 @@ requires-dist = [
     { name = "pyyaml" },
     { name = "requests" },
     { name = "tqdm" },
-    { name = "types-pyyaml" },
 ]
 
 [package.metadata.requires-dev]
-dev = []
+dev = [{ name = "types-pyyaml" }]
 
 [[package]]
 name = "multidict"
