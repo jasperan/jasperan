@@ -64,13 +64,13 @@ check_prereqs() {
             ver=$("$cmd" -c 'import sys; v=sys.version_info; print(f"{v.major}.{v.minor}")' 2>/dev/null) || continue
             major=${ver%%.*}
             minor=${ver##*.}
-            if [ "$major" -gt 3 ] || { [ "$major" -eq 3 ] && [ "$minor" -ge 8 ]; }; then
+            if [ "$major" -gt 3 ] || { [ "$major" -eq 3 ] && [ "$minor" -ge 12 ]; }; then
                 PYTHON="$cmd"
                 break
             fi
         fi
     done
-    [ -n "$PYTHON" ] || fail "Python 3.8+ is required — https://www.python.org/downloads/"
+    [ -n "$PYTHON" ] || fail "Python 3.12+ is required — https://www.python.org/downloads/"
     success "Python $($PYTHON --version | cut -d' ' -f2)"
 }
 

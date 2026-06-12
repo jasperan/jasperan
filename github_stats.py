@@ -27,19 +27,19 @@ class Queries:
         self.session = session
         self.semaphore = asyncio.Semaphore(max_connections)
 
-    def check_rate_limit(self, headers: Dict) -> None:
+    async def check_rate_limit(self, headers: Dict) -> None:
         """
         Check X-RateLimit-Remaining and sleep if necessary.
         """
         remaining = headers.get("X-RateLimit-Remaining")
         reset = headers.get("X-RateLimit-Reset")
-        
+
         if remaining is not None and int(remaining) < 2:
             now = time.time()
             reset_time = float(reset) if reset else now + 60
             sleep_time = max(0, reset_time - now) + 1
             print(f"\nRate limit hit! Sleeping for {sleep_time:.2f} seconds until {reset}")
-            time.sleep(sleep_time)
+            await asyncio.sleep(sleep_time)
 
     async def query(self, generated_query: str) -> Dict:
         """
@@ -90,7 +90,7 @@ class Queries:
                                                headers=headers,
                                                params=tuple(params.items()))
 
-                self.check_rate_limit(r.headers)
+                await self.check_rate_limit(r.headers)
 
                 if r.status == 202:
                     print(f"\n{path} returned 202. Retrying ({current_retry}/{max_retries})...")
@@ -104,7 +104,7 @@ class Queries:
                 # Swallow transient aiohttp/JSON errors and retry on the next iteration.
                 pass
 
-        print(f"\nThere were too many 202s. Data for {path} will be incomplete.")
+        print(f"\nExhausted {max_retries} retries. Data for {path} will be incomplete.")
         return dict()
 
     @staticmethod

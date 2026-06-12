@@ -9,18 +9,6 @@ from github_stats import Stats
 
 
 ################################################################################
-# Helper Functions
-################################################################################
-
-def generate_output_folder() -> None:
-    """
-    Create the output folder if it does not already exist
-    """
-    if not os.path.isdir("generated"):
-        os.mkdir("generated")
-
-
-################################################################################
 # Individual Image Generation Functions
 ################################################################################
 
@@ -42,7 +30,7 @@ async def generate_overview(s: Stats) -> None:
     output = output.replace("{{ views }}", f"{await s.views:,}")
     output = output.replace("{{ repos }}", f"{len(await s.repos):,}")
 
-    generate_output_folder()
+    os.makedirs("generated", exist_ok=True)
     with open("generated/overview.svg", "w") as f:
         f.write(output)
 
@@ -80,7 +68,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     output = output.replace("{{ progress }}", progress)
     output = output.replace("{{ lang_list }}", lang_list)
 
-    generate_output_folder()
+    os.makedirs("generated", exist_ok=True)
     with open("generated/languages.svg", "w") as f:
         f.write(output)
 
@@ -93,25 +81,23 @@ async def main() -> None:
     """
     Generate all badges
     """
-    access_token = os.getenv("ACCESS_TOKEN")
-    user = os.getenv("GITHUB_ACTOR")
-    exclude_repos_env = os.getenv("EXCLUDED")
-    exclude_langs_env = os.getenv("EXCLUDED_LANGS")
-    
-    # Try to load from config.yaml
+    keys = ("ACCESS_TOKEN", "GITHUB_ACTOR", "EXCLUDED", "EXCLUDED_LANGS")
+    settings = {key: os.getenv(key) for key in keys}
+
+    # Fall back to config.yaml for any value not provided via the environment
     if os.path.exists("config.yaml"):
         import yaml
         with open("config.yaml", "r") as f:
             config = yaml.safe_load(f)
-            if config:
-                if not access_token:
-                    access_token = config.get("ACCESS_TOKEN")
-                if not user:
-                    user = config.get("GITHUB_ACTOR")
-                if not exclude_repos_env:
-                    exclude_repos_env = config.get("EXCLUDED")
-                if not exclude_langs_env:
-                    exclude_langs_env = config.get("EXCLUDED_LANGS")
+        if config:
+            for key in keys:
+                if not settings[key]:
+                    settings[key] = config.get(key)
+
+    access_token = settings["ACCESS_TOKEN"]
+    user = settings["GITHUB_ACTOR"]
+    exclude_repos_env = settings["EXCLUDED"]
+    exclude_langs_env = settings["EXCLUDED_LANGS"]
 
     if not access_token:
         raise SystemExit(
